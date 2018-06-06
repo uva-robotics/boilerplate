@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(boiplerplate_pkg)
+project(boilerplate_pkg)
 
 find_package(catkin REQUIRED COMPONENTS
   rospy
